@@ -1,0 +1,6 @@
+{
+  "name": "उदीक्षा Garment Shop",
+  "description": "Premium clothing e-commerce app with buyer browsing, secure admin control, QR payments, and staff directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
